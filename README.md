@@ -1,7 +1,7 @@
 # Famidash-Super-ish-Edition
 Geometry dash for the SNES (kind of)
 # Description
-This is basically [FamiDash](https://github.com/tfdsoft/famidash) for the NES just emulated on an SNES using the [Nested Emulator](https://github.com/Myself086/Project-Nested).
+This is basically [FamiDash](https://github.com/tfdsoft/famidash) (beta 5) for the NES just emulated on an SNES using the [Nested Emulator](https://github.com/Myself086/Project-Nested).
 
 So, I basically did nothing.
 
